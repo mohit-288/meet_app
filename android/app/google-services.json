@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "322579458184",
+    "project_id": "meet-app-9341e",
+    "storage_bucket": "meet-app-9341e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322579458184:android:2fbb6709d846c67d85973d",
+        "android_client_info": {
+          "package_name": "com.example.meet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322579458184-7d3smpqekso1v909obio4aost4tv6d93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meet_app",
+            "certificate_hash": "62d2db167b6154e42a8cfdc72f533dd4b8a47227"
+          }
+        },
+        {
+          "client_id": "322579458184-ot3ro5hmhovv9ud98bjefiiqtu27en6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeBrr1po83N-0nU6HjHeTRYKCRhGNBkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322579458184-ot3ro5hmhovv9ud98bjefiiqtu27en6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -26,7 +26,7 @@ class MeetingScreen extends StatelessWidget {
     return Container(
       decoration: const BoxDecoration(
         image: DecorationImage(
-          image: AssetImage("assets/images/back7.png"),
+          image: AssetImage("assets/images/back2.png"),
           fit: BoxFit.fitWidth,
           alignment: Alignment.bottomCenter,
         ),

@@ -14,7 +14,11 @@ class MeetingScreen extends StatelessWidget {
     Random _rnd = Random.secure();
 
     String roomName = String.fromCharCodes(Iterable.generate(
-        10, (_) => _chars.codeUnitAt(_rnd.nextInt(_chars.length))));
+      10,
+      (_) => _chars.codeUnitAt(
+        _rnd.nextInt(_chars.length),
+      ),
+    ));
 
     _jitsiMeetMethods.createMeeting(
         roomName: roomName, isAudioMuted: true, isVideoMuted: true);
